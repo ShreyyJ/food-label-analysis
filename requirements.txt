@@ -1,5 +1,7 @@
 streamlit
 pillow
 easyocr
+paddleocr
+paddlepaddle
 numpy
 pandas
