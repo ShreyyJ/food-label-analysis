@@ -1,4 +1,5 @@
 # app.py — Nutrition Label Insights (Local Processing)
+#This is the main python app file which runs streamlit interface
 
 import streamlit as st
 from PIL import Image
